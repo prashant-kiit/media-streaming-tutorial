@@ -134,3 +134,7 @@ Device performance
 User interactions
 
 Server cannot see real-time playback conditions.
+
+------------
+
+https://imagekit.io/docs/adaptive-bitrate-streaming
