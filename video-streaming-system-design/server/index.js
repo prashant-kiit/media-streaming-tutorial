@@ -10,6 +10,7 @@ app.get("/video", (req, res) => {
   const videoSize = fs.statSync(videoPath).size;
 
   const range = req.headers.range;
+  console.log(range);
   if (!range) {
     return res.status(400).send("Requires Range header");
   }
