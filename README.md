@@ -137,4 +137,11 @@ Server cannot see real-time playback conditions.
 
 ------------
 
+On Demand and Live Stream Overview
+https://www.youtube.com/watch?v=kCAXpAikMVc&t=23s
+
+Video Streaming System Design
+https://www.youtube.com/watch?v=WlMTxHcm4Qs
+
+HLS/DASH for OnDemand Streaming
 https://imagekit.io/docs/adaptive-bitrate-streaming
