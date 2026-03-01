@@ -11,10 +11,10 @@ function App() {
 
     if (Hls.isSupported()) {
       const hls = new Hls();
-      hls.loadSource("http://localhost:8080/hls/stream.m3u8");
+      hls.loadSource("http://localhost:8080/hls/stream/index.m3u8");
       hls.attachMedia(video);
     } else if (video.canPlayType("application/vnd.apple.mpegurl")) {
-      video.src = "http://localhost:8080/hls/stream.m3u8";
+      video.src = "http://localhost:8080/hls/stream/index.m3u8";
     }
   }, []);
 
