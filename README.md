@@ -137,6 +137,9 @@ Server cannot see real-time playback conditions.
 
 ------------
 
+HTTP progressive download
+https://www.youtube.com/watch?v=ZIlflNBqdQI
+
 On Demand and Live Stream Overview
 https://www.youtube.com/watch?v=kCAXpAikMVc&t=23s
 
@@ -145,7 +148,19 @@ https://www.youtube.com/watch?v=WlMTxHcm4Qs
 
 HLS/DASH for OnDemand Streaming
 https://imagekit.io/docs/adaptive-bitrate-streaming
+https://github.com/hiteshchoudhary/video-streaming
+https://www.youtube.com/watch?v=WpfI9ge5HYE
 
 RTMP (Live) Streaming 
 https://www.youtube.com/watch?v=JwZiO5p-NAE
 https://www.youtube.com/watch?v=qenAQwLvZfA
+
+Scale RTMP (Live) Streaming 
+https://www.youtube.com/watch?v=yKgWAHqmAwk
+https://www.youtube.com/watch?v=7AMRfNKwuYo&t=11s
+
+SDKs similar to StreamYard
+https://www.agora.io/en/
+https://www.youtube.com/watch?v=_40JX-hj3uU
+https://www.youtube.com/watch?v=CukZnaU-0r8
+https://www.youtube.com/watch?v=WpfI9ge5HYE
